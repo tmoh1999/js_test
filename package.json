@@ -20,5 +20,8 @@
   "homepage": "https://github.com/tmoh1999/nodejs_test#readme",
   "devDependencies": {
     "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
